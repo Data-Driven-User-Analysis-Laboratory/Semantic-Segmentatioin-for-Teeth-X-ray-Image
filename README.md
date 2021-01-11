@@ -1,7 +1,7 @@
 # Semantic-segmentation-teeth-image
 
 ** Contributor   
-JongHwan Park : pjh403@naver.com   
+JongHwan Park : pjh403@naver.com (https://github.com/chromatices)   
    
    
 * fcn result image   
